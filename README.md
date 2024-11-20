@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Shilpendu Ghosh, a passionate researcher and developer at the intersection of medicinal chemistry and AI technologies.
+
+🔬 About Me:
+Medicinal chemist with expertise in drug design, photodynamic therapy, and small-molecule inhibitors.
+Enthusiastic about integrating machine learning to advance drug discovery.
+
+💻 Skills:
+Molecular Modeling and NMR Analysis
+Synthetic Chemistry and Nanoparticle Design
+Python Applications in Chemistry
+
+📚 Current Projects:
+Developing telomerase inhibitors and novel photosensitizers.
+Researching ALDH1A1 inhibition and its role in cancer stemness.
+
+✨ Let's connect and collaborate to build innovative solutions in chemistry and beyond!
